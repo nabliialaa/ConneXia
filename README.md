@@ -75,6 +75,7 @@ chmod -R 777 /Applications/XAMPP/xamppfiles/var
 6- Test de votre installation OSX XAMPP
 Dans votre navigateur Web, accédez à http: // localhost .
 Vous devriez voir la page de démarrage de XAMPP
+
 ![](https://s3.amazonaws.com/webucator-how-tos/2080.png)
 
 ## Usage
@@ -83,6 +84,7 @@ Vous devriez voir la page de démarrage de XAMPP
 - Connexia importation RH : 
 ![](https://i.ibb.co/X3nKHrf/Untitled-3.png)
 - SSO (OPTIONAL)
+
 ![](https://i.ibb.co/fHxSz7P/sso.png)
 
 - Utilisation du plugin autocad (GINCAD)
