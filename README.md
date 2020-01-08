@@ -82,7 +82,9 @@ Vous devriez voir la page de démarrage de XAMPP
 
 
 - Connexia importation RH : 
+
 ![](https://i.ibb.co/X3nKHrf/Untitled-3.png)
+
 - SSO (OPTIONAL)
 
 ![](https://i.ibb.co/fHxSz7P/sso.png)
